@@ -14,3 +14,16 @@ a {
     line-height: 30px;
     color: #7D7987
  }
+ .head_first {
+    color: #222222;
+    font-size: 28px;
+    line-height: 36px;
+    font-weight: bold;
+ }
+ .second_head {
+    color: coral;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 80px;
+ }
